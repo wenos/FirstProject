@@ -34,8 +34,8 @@ public class Ball {
     }
 
     public void move(double xDisp, double yDisp) {
-        this.x = xDisp;
-        this.y = yDisp;
+        this.x += xDisp;
+        this.y += yDisp;
     }
 
     @Override
