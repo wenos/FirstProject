@@ -1,8 +1,8 @@
 package practice_2;
 
 public class Ball {
-    double x;
-    double y;
+    private double x;
+    private double y;
 
     public Ball(double x, double y) {
         this.x = x;

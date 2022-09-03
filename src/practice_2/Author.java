@@ -1,9 +1,9 @@
 package practice_2;
 
 public class Author {
-    String name;
-    String email;
-    char gender;
+    private String name;
+    private String email;
+    private char gender;
 
     public Author(String name, String email, char gender) {
         this.name = name;
