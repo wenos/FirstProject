@@ -1,4 +1,4 @@
-package practice_3;
+package practice_5;
 import java.util.Random;
 public class Foonction {
     public static int Task_4(int st, int fn, int k, int count_command, int flag){

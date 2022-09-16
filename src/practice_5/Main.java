@@ -1,6 +1,5 @@
-package practice_3;
-import java.awt.*;
-import java.util.Random;
+package practice_5;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println(Foonction.Task_4(0, 3, 3, 0, 1));
